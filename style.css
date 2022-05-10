@@ -1,0 +1,46 @@
+
+@media (min-width: 760px){
+    .Layout {
+        display: flex;
+    }
+    }
+.img-1{
+width: 170px;
+border-radius: 20px;
+}
+.img-2{
+width: 200px;
+border-radius: 20px;
+}
+.img-3{
+width: 225px;
+border-radius: 20px;
+}
+.small-piz{
+background-color: green;
+margin: 1em;
+border-radius: 10px;
+}
+.medium-piz {
+background-color:greenyellow;
+margin: 1em;
+border-radius: 10px;
+}
+.large-piz {
+background-color: gainsboro;
+margin: 1em;
+border-radius: 10px;
+}
+.Details {
+background-color: yellowgreen;
+margin: 1em;
+display: flex;
+border-radius: 10px;
+}
+h1 {text-align: center;}
+.Details1{text-align: left; flex: 1;}
+.Details2{text-align: ; flex: 1;}
+
+
+
+
